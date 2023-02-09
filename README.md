@@ -1,10 +1,10 @@
-## Install 
+## Install
 
 ### `npm install`
 
 Set environment variables in .env file
 
-## Start Dev environment  
+## Start Dev environment
 
 ### `npm run dev`
 
@@ -14,13 +14,11 @@ Compile tracked script and start application
 
 Just compile build script
 
-
-## Production environment 
+## Production environment
 
 ### `npm start`
 
 Run the production build (Must be built first).
-
 
 ## Tests
 
@@ -28,9 +26,7 @@ Run the production build (Must be built first).
 
 Start unit tests
 
-
-
 ## Additional Notes
 
 - Tracker.js compiled and ready for production
-- 
+-
